@@ -71,7 +71,7 @@ class Leitura {
                     println("Saindo...")
                     return
                 }
-                else -> println("Opção inválida.")
+                else -> println("Inválida.")
             }
         }
     }
